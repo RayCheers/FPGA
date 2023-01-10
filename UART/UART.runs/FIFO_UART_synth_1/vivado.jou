@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Jan  7 23:13:58 2023
+# Process ID: 13988
+# Current directory: D:/1.EE/FPGA/VerilogWorks/UART/UART.runs/FIFO_UART_synth_1
+# Command line: vivado.exe -log FIFO_UART.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FIFO_UART.tcl
+# Log file: D:/1.EE/FPGA/VerilogWorks/UART/UART.runs/FIFO_UART_synth_1/FIFO_UART.vds
+# Journal file: D:/1.EE/FPGA/VerilogWorks/UART/UART.runs/FIFO_UART_synth_1\vivado.jou
+#-----------------------------------------------------------
+source FIFO_UART.tcl -notrace

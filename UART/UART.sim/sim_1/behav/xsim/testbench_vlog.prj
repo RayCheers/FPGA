@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../UART.srcs/sources_1/ip/FIFO_UART/sim/FIFO_UART.v" \
+"../../../../UART.srcs/sources_1/new/SegmentDisplay.v" \
+"../../../../UART.srcs/sources_1/new/UART.v" \
+"../../../../UART.srcs/sources_1/new/UART_ABR.v" \
+"../../../../UART.srcs/sources_1/new/UART_Control.v" \
+"../../../../UART.srcs/sources_1/new/UART_RX.v" \
+"../../../../UART.srcs/sources_1/new/UART_TX.v" \
+"../../../../UART.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
