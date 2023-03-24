@@ -3,7 +3,7 @@ Project1: UART
 @Target Board：NEXYS A7
 @IDE：vivado 2018.3
 @project：自适应串口
-@Author： 第九组
+@Author： RayCheers
 @time：2023.1.8
 工程使用说明：
 1. NEXYS A7使用虚拟串口，通过一根数据线直接与电脑相连，需安装虚拟串口驱动，可至FTDI官网下载驱动并安装。安装后可能会出现签名问题（端口处为黄色感叹号），需使用疑难解答重启电脑关闭驱动程序强制签名，直至在设备管理器端口选项中看到端口工作正常方可；
