@@ -1,5 +1,5 @@
 # FPGA
-## Project1: UART
+## Project: UART
 ## @Target Board：NEXYS A7
 ## @IDE：vivado 2018.3
 ## @project：自适应串口
